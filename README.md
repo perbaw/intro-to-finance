@@ -22,7 +22,7 @@ Xi Yang
 	- Investments
 	- Stocks
 	- Bonds
-## [module-1/1. Intro to Finance.md](Intro to Finance)
+## [Intro to Finance](module-1/1. Intro to Finance.md)
 - Three legal forms to organize firms
 - The goal of financial management
 - The agency problem
