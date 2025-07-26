@@ -7,8 +7,7 @@ Xi Yang
 - Renmin University of China (Undergrad and Postgrad)
 - Cornell (PhD)
 # Modules
-## Course Orientation
-### Topics covered
+## [[Course Orientation]]
 - Corporations
 	- Invest in real assets to create value
 - Financial statements and analysis
@@ -23,19 +22,19 @@ Xi Yang
 	- Investments
 	- Stocks
 	- Bonds
-## Introduction to Finance
+## [[Intro to Finance]]
 - Three legal forms to organize firms
 - The goal of financial management
 - The agency problem
-## Financial Statements and Cash Flow
+## [[Financial Statements and Cash Flow]]
 - The balance sheet
 - The income statement
 - How to convert financials to cash flows
-## Financial Statements Analysis
-- The balance sheet
-- The income statement
-- How to convert financials to cash flows
-## Time Value of Money
+## [[Financial Statements Analysis]]
+- Standardizing statements
+- Financial ratios
+- Financial forecasting
+## [[Time Value of Money]]
 - Present value and future value
 - Net present value
 - Internal rate of return
